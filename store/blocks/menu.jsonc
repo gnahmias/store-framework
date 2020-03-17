@@ -2,6 +2,7 @@
     "vtex.menu@2.x:menu#categories": {
       "children": [
         "menu-item#major-appliances",
+        "vtex.menu@2.x:submenu#major",
         "menu-item#small-appliances",
         "menu-item#electronics"
       ],
@@ -10,9 +11,9 @@
         "orientation": "horizontal"
       }
    },
-   "menu-item#major-appliances": {
+   /*"menu-item#major-appliances": {
     "children": ["vtex.menu@2.x:submenu#major"]
-   },
+   },*/
    "vtex.menu@2.x:submenu#major":{
     "children":[
       "vtex.menu@2.x:menu#major"
