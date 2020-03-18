@@ -13,7 +13,7 @@
    "menu-item#major-appliances": {
     "props": {
       "type": "custom",
-      "highlight": false,
+      "highlight": true,
       "itemProps": {
         "type": "internal",
         "href": "#",
@@ -42,7 +42,7 @@
   "menu-item#small-appliances": {
     "props": {
       "type": "custom",
-      "highlight": false,
+      "highlight": true,
       "itemProps": {
         "type": "internal",
         "href": "#",
@@ -71,7 +71,7 @@
   "menu-item#electronics": {
     "props": {
       "type": "custom",
-      "highlight": false,
+      "highlight": true,
       "itemProps": {
         "type": "internal",
         "href": "#",
